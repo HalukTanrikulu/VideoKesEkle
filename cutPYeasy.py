@@ -1,9 +1,9 @@
 import moviepy.editor as mpy
 """
 libx264 yüklemek için https://www.imagemagick.org/script/download.php
-adresinden imagemagick programını indirip kurun. Kurulume esnasında lisanslı
+adresinden imagemagick programını indirip kurun. Kurulum esnasında lisanslı
 libx264 de kurulacaktır.
-Başka çözüm yöntemleride internette yazılıyor. Ancak en kestirmesi bu!
+Başka çözüm yöntemleride internette bulunabilir. Ancak en kestirmesi bu!
 """
 
 vcodec =   "libx264"
