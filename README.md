@@ -8,5 +8,7 @@ https://www.imagemagick.org/script/download.php adresinden imagemagick programı
 Bir başka hatırlatma .mp4, .m4v uzantılı kesilip birleştirilecek videonun aynı klasörde kalması gerekir.
 
 Bu kodların farklı bir sürümü için lütfen aşağıdaki bağlantıyı inceleyiniz
+
 https://www.python-engineer.com/posts/video-editing-with-python/
+
 https://zulko.github.io/moviepy/index.html
