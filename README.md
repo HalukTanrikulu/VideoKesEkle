@@ -14,7 +14,7 @@ adresinden imagemagick programını bilgisayarınıza kurmak.
 
 Bir başka hatırlatma .mp4, .m4v uzantılı kesilip birleştirilecek videonun aynı klasörde olması gerekir.
 
-Bu kodların farklı bir sürümü (video üzerine metin yazmak gibi)  için lütfen aşağıdaki bağlantıyı inceleyiniz
+Bu kodların farklı bir sürümü (video üzerine metin yazmak gibi)  için aşağıdaki bağlantıyı inceleyebilirsiniz.
 
 https://www.python-engineer.com/posts/video-editing-with-python/
 
